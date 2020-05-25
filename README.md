@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/jrikhof/short-uuid-swift.svg?branch=master)](https://travis-ci.com/jrikhof/short-uuid-swift)
+
 # ShortUUID
 
 This is a Swift implementation of Samuel Rouse's [short-uuid](https://github.com/oculus42/short-uuid) npm package.
